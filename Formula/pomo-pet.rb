@@ -1,10 +1,10 @@
 class PomoPet < Formula
   desc "Pomodoro timer with animated desktop pets"
   homepage "https://github.com/someshfengde/pomo_pet"
-  url "https://github.com/someshfengde/pomo_pet/archive/refs/tags/v1.2.34.tar.gz"
-  sha256 "704e91068fefa6e686c8e0128671094314d634b4d056abd7d6577e2b0be72b28"
+  url "https://github.com/someshfengde/pomo_pet/archive/refs/tags/v1.2.35.tar.gz"
+  sha256 "c1b12a97a51490f0852066a805592692c06d4b492ba1aa63ccbaba374175d624"
   license "MIT"
-  version "1.2.34"
+  version "1.2.35"
 
   depends_on "python@3.13"
   depends_on "uv"
